@@ -9,7 +9,7 @@ This is a Model Context Protocol (MCP) server that provides weather information 
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.10+
 - FastMCP
 - httpx
 
