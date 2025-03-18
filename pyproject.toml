@@ -1,7 +1,7 @@
 [project]
-name = "mcp-server-medRxiv"
+name = "mcp-server-bioRxiv"
 version = "0.1.0"
-description = "An MCP server for searching and retrieving articles from medRxiv"
+description = "An MCP server for searching and retrieving articles from bioRxiv"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
