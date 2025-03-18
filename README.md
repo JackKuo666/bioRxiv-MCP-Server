@@ -19,7 +19,7 @@ The medRxiv MCP Server provides a bridge between AI assistants and medRxiv's pre
 
 ### Installing via Smithery
 
-To install medRxiv Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/arxiv-mcp-server):
+To install medRxiv Server for Claude Desktop automatically via [![smithery badge](https://smithery.ai/badge/@JackKuo666/medrxiv-mcp-server)](https://smithery.ai/server/@JackKuo666/medrxiv-mcp-server):
 
 ```bash
 npx -y @smithery/cli install medrxiv-mcp-server --client claude
