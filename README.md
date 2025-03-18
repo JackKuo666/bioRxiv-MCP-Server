@@ -38,7 +38,7 @@ The bioRxiv MCP Server provides a bridge between AI assistants and bioRxiv's pre
 
 ### Installing via Smithery
 
-To install bioRxiv Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/biorxiv-mcp-server):
+To install bioRxiv Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@JackKuo666/biorxiv-mcp-server):
 
 #### claude
 
