@@ -1,10 +1,11 @@
 [project]
-name = "weather"
+name = "mcp-server-medRxiv"
 version = "0.1.0"
-description = "Add your description here"
+description = "An MCP server for searching and retrieving articles from medRxiv"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "httpx>=0.28.1",
     "mcp[cli]>=1.4.1",
+    "requests>=2.25.1",
+    "beautifulsoup4>=4.9.3",
 ]
