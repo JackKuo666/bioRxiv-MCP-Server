@@ -1,5 +1,6 @@
 # bioRxiv MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@JackKuo666/biorxiv-mcp-server)](https://smithery.ai/server/@JackKuo666/biorxiv-mcp-server)
 🔍 Enable AI assistants to search and access bioRxiv papers through a simple MCP interface.
 
 The bioRxiv MCP Server provides a bridge between AI assistants and bioRxiv's preprint repository through the Model Context Protocol (MCP). It allows AI models to search for biology preprints and access their metadata in a programmatic way.
